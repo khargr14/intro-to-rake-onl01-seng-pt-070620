@@ -1,6 +1,4 @@
-task :hello do
-  # the code we want to be executed by this task
-end
+require 'rake'
 
 namespace :greeting do
 desc 'outputs hello to the terminal'
