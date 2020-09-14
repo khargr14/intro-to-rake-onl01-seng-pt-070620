@@ -1,4 +1,6 @@
-
+task :hello do
+  # the code we want to be executed by this task
+end
 
 namespace :greeting do
 desc 'outputs hello to the terminal'
